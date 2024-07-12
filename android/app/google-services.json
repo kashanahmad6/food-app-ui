@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390377099394",
+    "project_id": "thisismyfoodappkashanahmad",
+    "storage_bucket": "thisismyfoodappkashanahmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390377099394:android:91ac9abd517598f329249b",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8Qrl6hLuidC9VZBi0LptVCkZIZomzg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
