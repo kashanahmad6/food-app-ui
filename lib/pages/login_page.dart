@@ -41,15 +41,6 @@ class _LoginPageState extends State<LoginPage> {
             );
           });
     }
-
-    // ignore: use_build_context_synchronously
-
-    // Navigator.push(
-    //   context,
-    //   MaterialPageRoute(builder: (context) {
-    //     return const MyHomePage();
-    //   }),
-    // );
   }
 
   @override
